@@ -1,0 +1,63 @@
+
+.container-1 {
+    
+    background-color: #483D8B;
+    width : 100%;
+}
+
+.container-2 {
+    position : relative;
+    display: block;
+    height : 10%;
+    width : 100%;
+}
+
+.logo-image {
+    position: relative;
+    width : 5rem;
+    height:30%;
+    padding: 10px;
+}
+
+.user-icon {
+    position: absolute;
+    width : 3rem;
+    height:30%;
+    padding-right: 5px;
+    padding: 30px;
+    color : white;
+}
+
+.event-banner {
+    height :100%;
+    width : 100%;
+}
+
+.image-div{
+    height: 30rem;
+}
+
+
+
+
+.artist-image {
+    left: 10%;
+    top: 5%;
+    position: absolute;
+}
+
+.artist-details {
+    position: absolute;
+    left: 30%;
+    top: 5%;
+    color : white;
+    font-size: 20px;
+   
+}
+
+.user-img {
+    width : 30%;
+    height : 20%;
+    border-radius: 50%;
+}
+
