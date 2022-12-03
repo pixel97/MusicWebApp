@@ -25,7 +25,7 @@ const DetailsPage = () => {
               <span>American Popstar</span>
               <br></br>
               <span>
-                Tickets booked 4.5k &nbsp;{" "}
+                Tickets booked 4.5k &nbsp; &nbsp;
                 <i className="fa-solid fa-ticket"></i>
               </span>
               <br></br>
