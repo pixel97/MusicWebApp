@@ -23,6 +23,7 @@ const ReviewsComponent = ({ review }) => {
           </div>
         </div>
       </div>
+      <br></br>
     </>
   );
 };
