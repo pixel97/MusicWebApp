@@ -1,0 +1,17 @@
+[
+  {
+    "id": 100,
+    "firstName": "Mili",
+    "lastName": "Tisdale",
+    "review": "Honestly, this is one of her best albums ever. It's like a mix of all her old pop albums with a splash of evermore and folklore. It's amazing..",
+    "profilePicture": "user1.jfif"
+  },
+
+  {
+    "id": 200,
+    "firstName": "Joshua",
+    "lastName": "Brown",
+    "review": "Taylor’s done it again! Just when I thought I couldn’t get over Folklore /Evermore, which labelled my favourite albums  she took us back to the nostalgia of the RED era and then..",
+    "profilePicture": "user2.jfif"
+  }
+]

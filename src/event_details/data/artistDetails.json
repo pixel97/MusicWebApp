@@ -1,0 +1,13 @@
+[
+  {
+    "id": 100,
+    "firstName": "Taylor",
+    "lastName": "Swift",
+    "Rating": 9.3,
+    "profilePicture": "taylor.jpg",
+    "bannerPicture": "concert.jpg",
+    "tickets": "8.9K",
+    "location": "American",
+    "type": "popstar"
+  }
+]
