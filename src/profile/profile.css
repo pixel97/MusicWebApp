@@ -1,0 +1,17 @@
+.bookmark-icon {
+    position: absolute;
+    top:1rem;
+    right:1rem;
+}
+
+.profile-image {
+    position : relative;
+}
+
+.icon {
+  top: 3%;
+  right: 3%;
+  position: absolute;
+  color : white;
+  font-size: 20px;
+}

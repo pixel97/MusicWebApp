@@ -18,7 +18,7 @@ const ArtistDetails = ({ details }) => {
               </h1>
               <br></br>
               <span>
-                Rating {details.rating}/10{" "}
+                Rating {details.Rating}K/10{" "}
                 <i className="fa-regular fa-star"></i>
               </span>
               <br></br>

@@ -1,5 +1,5 @@
-import artistDetailsReducer from "./reducers/artistDetails-reducer";
-import artistReviewsReducer from "./reducers/artistReviews-reducer";
+import artistDetailsReducer from "../reducers/artistDetails-reducer";
+import artistReviewsReducer from "../reducers/artistReviews-reducer";
 import { configureStore } from "@reduxjs/toolkit";
 import { Provider } from "react-redux";
 import "./index.css";

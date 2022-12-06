@@ -1,0 +1,14 @@
+[
+  {
+    "id": 100,
+    "firstName": "Mili",
+    "lastName": "Tisdale",
+    "email": "mili.344@gmail.com",
+    "bio": "Loves music and art since childhood. Investment banker and passionate for music.",
+    "profilePicture": "user1.jfif",
+    "followers": 44,
+    "following": 23,
+    "reviews": 61,
+    "favorites": 10
+  }
+]
