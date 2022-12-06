@@ -1,0 +1,64 @@
+.wd-register-html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+ }
+ 
+ .wd-register-body {
+    margin: 0px;
+    min-height: 100%;
+    width: 100%;
+    background: rgb(236, 234, 234);
+    overflow: hidden;
+ }
+
+ .wd-register-form {
+    overflow: hidden;
+ }
+
+.wd-register-container {
+    width: 75% !important;/*Set your own width %; */
+    height: 100vh !important;
+    
+ }
+ 
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+.wd-register-row {
+    background: white;
+    border-radius: 10px;
+    height: 100%;
+}
+
+.wd-register-img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    /* border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px; */
+}
+
+.wd-register-imgf{
+    max-width: 100%;
+    min-height:100%;
+}
+
+.wd-register-button {
+    border: none;
+    outline: none;
+    height: 40px;
+    width:100%;
+    background-color: rgb(2, 108, 223);
+    color: white;
+    border-radius: 10px;
+}
+
+.wd-login-button:hover {
+    background-color: rgb(62, 62, 251);
+}

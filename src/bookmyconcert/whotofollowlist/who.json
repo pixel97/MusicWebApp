@@ -1,0 +1,20 @@
+[
+    {
+      "_id": 123,
+      "userName": "Taylor Swift",
+      "handle": "taylorswift",
+      "avatarIcon": "taylorswift.webp"
+    },
+    {
+      "_id": 234,
+      "userName": "Ariana Grande",
+      "handle": "ariana",
+      "avatarIcon": "arianagrande.png"
+    },
+    {
+      "_id": 345,
+      "userName": "Selena Gomez",
+      "handle": "selenagomez",
+      "avatarIcon": "selenagomez.webp"
+    }
+  ]
